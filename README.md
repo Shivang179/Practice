@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shivang179/Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shivang179/Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shivang179/Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Shivang179/Practice/tree/master/0231-power-of-two) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shivang179/Practice/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Shivang179/Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shivang179/Practice/tree/master/0231-power-of-two) |
 ## Hash Table
