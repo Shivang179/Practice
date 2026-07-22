@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivang179/Practice/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shivang179/Practice/tree/master/0074-search-a-2d-matrix) |
+| [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivang179/Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang179/Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Shivang179/Practice/tree/master/1260-shift-2d-grid) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shivang179/Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shivang179/Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shivang179/Practice/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivang179/Practice/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang179/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivang179/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang179/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivang179/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivang179/Practice/tree/master/0001-two-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
