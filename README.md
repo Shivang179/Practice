@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang179/Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivang179/Practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shivang179/Practice/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shivang179/Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivang179/Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Shivang179/Practice/tree/master/1539-kth-missing-positive-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shivang179/Practice/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shivang179/Practice/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivang179/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Shivang179/Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivang179/Practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shivang179/Practice/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
