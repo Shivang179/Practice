@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang179/Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivang179/Practice/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Shivang179/Practice/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shivang179/Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivang179/Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shivang179/Practice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivang179/Practice/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang179/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivang179/Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivang179/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivang179/Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivang179/Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivang179/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
