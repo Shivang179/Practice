@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shivang179/Practice/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shivang179/Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivang179/Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivang179/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Shivang179/Practice/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang179/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivang179/Practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivang179/Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivang179/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivang179/Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivang179/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivang179/Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shivang179/Practice/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivang179/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
