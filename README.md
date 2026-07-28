@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Shivang179/Practice/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivang179/Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Shivang179/Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivang179/Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivang179/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivang179/Practice/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivang179/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivang179/Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivang179/Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivang179/Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivang179/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivang179/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shivang179/Practice/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivang179/Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -174,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivang179/Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
