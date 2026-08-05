@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shivang179/Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivang179/Practice/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivang179/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Shivang179/Practice/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivang179/Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shivang179/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shivang179/Practice/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivang179/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [3731-find-missing-elements](https://github.com/Shivang179/Practice/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shivang179/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivang179/Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shivang179/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
