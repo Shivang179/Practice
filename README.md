@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivang179/Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivang179/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Shivang179/Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shivang179/Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivang179/Practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Shivang179/Practice/tree/master/0074-search-a-2d-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shivang179/Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shivang179/Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang179/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivang179/Practice/tree/master/0876-middle-of-the-linked-list) |
