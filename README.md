@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shivang179/Practice/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Shivang179/Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Shivang179/Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Shivang179/Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shivang179/Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shivang179/Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivang179/Practice/tree/master/0074-search-a-2d-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shivang179/Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shivang179/Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivang179/Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang179/Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Shivang179/Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivang179/Practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shivang179/Practice/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Shivang179/Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shivang179/Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shivang179/Practice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
