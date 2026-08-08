@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shivang179/Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shivang179/Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivang179/Practice/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/Shivang179/Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivang179/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivang179/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang179/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivang179/Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivang179/Practice/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Shivang179/Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivang179/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Shivang179/Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shivang179/Practice/tree/master/0509-fibonacci-number) |
