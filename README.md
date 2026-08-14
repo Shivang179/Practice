@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shivang179/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivang179/Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivang179/Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Shivang179/Practice/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivang179/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shivang179/Practice/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivang179/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivang179/Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shivang179/Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shivang179/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivang179/Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
 |  |
 | ------- |
