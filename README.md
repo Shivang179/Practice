@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shivang179/Practice/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shivang179/Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang179/Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shivang179/Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang179/Practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Shivang179/Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivang179/Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang179/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivang179/Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shivang179/Practice/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivang179/Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivang179/Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivang179/Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shivang179/Practice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shivang179/Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivang179/Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shivang179/Practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Shivang179/Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shivang179/Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivang179/Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivang179/Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Shivang179/Practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Shivang179/Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivang179/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivang179/Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivang179/Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shivang179/Practice/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Shivang179/Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shivang179/Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shivang179/Practice/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shivang179/Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivang179/Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shivang179/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shivang179/Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivang179/Practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Shivang179/Practice/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Shivang179/Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivang179/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivang179/Practice/tree/master/1248-count-number-of-nice-subarrays) |
